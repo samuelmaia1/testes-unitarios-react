@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 1rem;
+}
+
+input {
+    border-radius: 8px;
+    border: none;
+    height: 1.5rem;
+    margin-top: .5rem;
+}
+
+button {
+    margin-top: .5rem;
+}

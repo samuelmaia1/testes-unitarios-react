@@ -1,11 +1,11 @@
 import './App.css'
-import { Count } from './components/Count'
+import { LoginForm } from './components/LoginForm'
 
 function App() {
 
   return (
     <>
-      <Count initialValue={10}/>
+      <LoginForm />
     </>
   )
 }
